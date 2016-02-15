@@ -1,0 +1,25 @@
+{
+  "esnext": true,
+  "bitwise": true,
+  "camelcase": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "immed": true,
+  "indent": 2,
+  "latedef": "nofunc",
+  "newcap": true,
+  "nonew": true,
+  "noarg": true,
+  "quotmark": "single",
+  "undef": false,
+  "unused": false,
+  "trailing": true,
+  "sub": true,
+  "maxlen": 120,
+  "globals": {
+    "angular": false,
+    "window": true,
+    "cordova": false,
+    "StatusBar": true
+  }
+}
